@@ -1,4 +1,4 @@
-**Designation ERC721-201801**
+**Designation ERC721-201802**
 # Standard Interface for Nonfungible Tokens
 *Active Standard [ERC721](https://github.com/ethereum/EIPs/issues/721)*
 
